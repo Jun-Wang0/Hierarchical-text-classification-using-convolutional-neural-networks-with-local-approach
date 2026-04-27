@@ -1,9 +1,5 @@
 # Hierarchical Text Classification using CNN and Local Approach
 
-> **Status:** Implementation of three novel HTC frameworks for hierarchical consistency.
-
----
-
 ### Description
 This repository contains the implementation of three **Hierarchical Text Classification (HTC)** methods:
 
